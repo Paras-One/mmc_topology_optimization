@@ -56,7 +56,7 @@ mmc_topology_optimization/
 ├── abaqus_simulation/         # Input files and results from ABAQUS verification
 ├── plots_results/             # Post-processed results and performance graphs
 └── README.md                  # Project overview and documentation
-
+```
 
 
 🧪 How to Use
